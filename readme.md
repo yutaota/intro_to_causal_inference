@@ -1,4 +1,4 @@
-# Causal Inference Course (Spring 2026)
+# Causal Inference Course (2026)
 
 This repository contains exercise codes.
 
